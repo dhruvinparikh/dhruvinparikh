@@ -24,6 +24,6 @@ Aave, Compound, Curve DyDx, Fulcrum, Dforce, Harvest, Uniswap, Sushiswap, Benqui
 
 #### Catch me on
 
-GitHub : https://github.com/dhruvinparikh
-Twitter : https://twitter.com/dhruvinparikh_
-Telegram : @dhruvinparikh
+* GitHub : https://github.com/dhruvinparikh
+* Twitter : https://twitter.com/dhruvinparikh_
+* Telegram : @dhruvinparikh
