@@ -16,11 +16,51 @@ Aave, Compound, Curve DyDx, Fulcrum, Dforce, Harvest, Uniswap, Sushiswap, Benqui
 
 ##### DeFi Apps Portfolio
 
-* https://app.opty.fi
-* https://whisbeverse.wtf
-* https://token.seraproject.org
-* https://getaiwa.com/
-* https://getenzyme.dev
+###### OptyFi
+ *  Web : https://opty.fi
+ *  App : https://app.opty.fi
+ *  GH Repo 
+  *  https://github.com/Opty-Fi/defi-adapters 
+  *  https://github.com/Opty-Fi/megagraph 
+  *  https://github.com/Opty-Fi/defi-legos 
+  *  https://github.com/Opty-Fi/defi-adapter-kit 
+ *  Core Smart Contracts Soon to be made public
+
+###### $SERA Token PreSale App
+* Web : https://seraproject.org/
+* App
+ * Token Sale Dashboard : https://token.seraproject.org/dashboard
+ * Token Vesting : https://token.seraproject.org/vesting
+ * Token IDO : https://token.seraproject.org/ido 
+* Smart Contracts
+ *  TokenPreTimelock : https://bscscan.com/address/0xfe28e4C3403dE2a3680d113De1E3CB4Ec716b58e#code
+ *  Token : https://bscscan.com/address/0x31640330CD2337E57C9591A2A183Ac4E8a754E87#code
+ *  TokenVesting : https://bscscan.com/address/0x3a60CaD68b2d469B63060a5904A5F74c8aD46d98#code
+ *  TokenPreSale : https://bscscan.com/address/0x3BE190258C362c979E7fF64679BD8bAF3c5d0969#code
+
+###### ParaSwap Fee Module
+* Web : https://paraswap.io
+* App : https://app.paraswap.io
+* Smart Contracts
+ * FeeClaimer : https://etherscan.io/address/0xef13101c5bbd737cfb2bf00bbd38c626ad6952f7#code 
+
+##### NFT Apps Portfolio
+
+###### Whisbeverse
+* App : https://whisbeverse.wtf
+* Opensea : https://opensea.io/collection/whisbe-vandalz
+* Smart Contracts
+ * WhIsBeVandalzPeriphery : https://etherscan.io/address/0x31719ea121e5e77b12efaf134693bb2633d0dc3f#code
+ * WhIsBeVandalz : https://etherscan.io/address/0x61CEcE14E222385D5aC83f3d0cbd518f5fEB3559#code
+
+##### Web3 Developer Tools
+
+###### AION Wallet - AIWA
+* Web : https://getaiwa.com/
+* GH : https://github.com/dhruvinparikh/aiwa
+###### PolkaDot DApp Wallet - Enzyme (deprecated)
+* Web : https://getenzyme.dev
+* GH : https://github.com/dhruvinparikh/enzyme
 
 #### Catch me on
 
