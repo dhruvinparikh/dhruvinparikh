@@ -62,27 +62,28 @@ Aave, Compound, Curve DyDx, Fulcrum, Dforce, Harvest, Uniswap, Sushiswap, Benqui
 * Web : https://getenzyme.dev
 * GH : https://github.com/dhruvinparikh/enzyme
 
-I am an instructor and curriculum designer at York University,Toronto for Smart Contracts and Decentralized Applications.( 2020 - present)
+I am an instructor and curriculum designer at York University,Toronto for Smart Contracts and Decentralized Applications (https://github.com/york-blockchain).( 2020 - present)
 Courseware : 
-https://csbc2000.surge.sh/
-https://csbc2010.surge.sh/
+* https://csbc2000.surge.sh/
+* https://csbc2010.surge.sh/
 
-I have been Blockchain Instructor for Solidity Smart Contract and full stack decentralized application development course in the Blockchain Development Program at George Brown College,Toronto (2019 - 2022). 
+I have been Blockchain Instructor for Solidity Smart Contract and full stack decentralized application development course (https://github.com/GeorgeBrownCollege-Toronto) in the Blockchain Development Program at George Brown College,Toronto (2019 - 2022). 
 Courseware : 
-https://bcdv1010.surge.sh/ 
-https://bcdv1013.surge.sh/ 
-https://bcdv1014.surge.sh/  
+* https://bcdv1010.surge.sh/ 
+* https://bcdv1013.surge.sh/ 
+* https://bcdv1014.surge.sh/  
 
 I have working with Metana's blockchain bootcamp
 Courseware :
-https://metana-bootcamp.github.io/web3-solidity-course/
+* https://metana-bootcamp.github.io/web3-solidity-course/
 
 I have appeared as guest instructor in Pesto's web3 fellowship
 Courseware : 
-https://pesto-tech.github.io/web3-fellowship/01_consensus/notes/index.html#/
+* https://pesto-tech.github.io/web3-fellowship/01_consensus/notes/index.html#/
 
 I have also worked with Eat The Blocks(A popular Youtube Blockchain Edu Channel). Here are the YT videos where I have contributed too : 
-https://youtu.be/PPGJzckn8GY https://youtu.be/pc1yLO56pbg 
+* https://youtu.be/PPGJzckn8GY
+* https://youtu.be/pc1yLO56pbg 
 
 #### Catch me on
 
