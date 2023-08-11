@@ -19,12 +19,13 @@ Aave, Compound, Curve DyDx, Fulcrum, Dforce, Harvest, Uniswap, Sushiswap, Benqui
 ###### OptyFi
  *  Web : https://opty.fi
  *  App : https://app.opty.fi
- *  GH Repo 
+ *  GH Repo
+  *  https://github.com/dhruvinparikh/earn-protocol  
   *  https://github.com/Opty-Fi/defi-adapters 
   *  https://github.com/Opty-Fi/megagraph 
   *  https://github.com/Opty-Fi/defi-legos 
   *  https://github.com/Opty-Fi/defi-adapter-kit 
- *  Core Smart Contracts Soon to be made public
+ *  Smart Contracts : [Vault Proxy](https://etherscan.io/address/0xE88693aab063F0Dcddd6A02e6Aa7EF8952ae633C) , [Vault Implementation](https://etherscan.io/address/0x17479f559d26c064fd95f3ba13e77a3be4d1f576)
 
 ###### $SERA Token PreSale App
 * Web : https://seraproject.org/
