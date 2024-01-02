@@ -16,34 +16,40 @@ Aave, Compound, Curve DyDx, Fulcrum, Dforce, Harvest, Uniswap, Sushiswap, Benqui
 
 ##### DeFi Apps Portfolio
 
+###### Pirex Eth
+ *  Web : https://redacted.finance/
+ *  App : https://dineroismoney.com/pxeth
+ *  GH Repo
+    *  https://github.com/redacted-cartel/pirex-eth-contracts 
+ *  Smart Contracts : [PxEth](https://etherscan.io/address/0x04C154b66CB340F3Ae24111CC767e0184Ed00Cc6), [apxEth](https://etherscan.io/address/0x9Ba021B0a9b958B5E75cE9f6dff97C7eE52cb3E6), [Pirex Ether](https://etherscan.io/address/0xD664b74274DfEB538d9baC494F3a4760828B02b0), [Reward Recipient](https://etherscan.io/address/0xCd615270aB3a7a3A262A4E49935D002278C76b78)
+
 ###### OptyFi
  *  Web : https://opty.fi
  *  App : https://app.opty.fi
  *  GH Repo
-  *  https://github.com/dhruvinparikh/earn-protocol  
-  *  https://github.com/Opty-Fi/defi-adapters 
-  *  https://github.com/Opty-Fi/megagraph 
-  *  https://github.com/Opty-Fi/defi-legos 
-  *  https://github.com/Opty-Fi/defi-adapter-kit 
+    *  https://github.com/dhruvinparikh/earn-protocol  
+    *  https://github.com/Opty-Fi/defi-adapters 
+    *  https://github.com/Opty-Fi/megagraph 
+    *  https://github.com/Opty-Fi/defi-legos 
+    *  https://github.com/Opty-Fi/defi-adapter-kit 
  *  Smart Contracts : [Vault Proxy](https://etherscan.io/address/0xE88693aab063F0Dcddd6A02e6Aa7EF8952ae633C) , [Vault Implementation](https://etherscan.io/address/0x17479f559d26c064fd95f3ba13e77a3be4d1f576)
 
 ###### $SERA Token PreSale App
 * Web : https://seraproject.org/
 * App
- * Token Sale Dashboard : https://token.seraproject.org/dashboard
- * Token Vesting : https://token.seraproject.org/vesting
- * Token IDO : https://token.seraproject.org/ido 
+   * Token Sale Dashboard : https://token.seraproject.org/dashboard
+   * Token Vesting : https://token.seraproject.org/vesting
+   * Token IDO : https://token.seraproject.org/ido 
 * Smart Contracts
- *  TokenPreTimelock : https://bscscan.com/address/0xfe28e4C3403dE2a3680d113De1E3CB4Ec716b58e#code
- *  Token : https://bscscan.com/address/0x31640330CD2337E57C9591A2A183Ac4E8a754E87#code
- *  TokenVesting : https://bscscan.com/address/0x3a60CaD68b2d469B63060a5904A5F74c8aD46d98#code
- *  TokenPreSale : https://bscscan.com/address/0x3BE190258C362c979E7fF64679BD8bAF3c5d0969#code
+   *  TokenPreTimelock : https://bscscan.com/address/0xfe28e4C3403dE2a3680d113De1E3CB4Ec716b58e#code
+   *  Token : https://bscscan.com/address/0x31640330CD2337E57C9591A2A183Ac4E8a754E87#code
+   *  TokenVesting : https://bscscan.com/address/0x3a60CaD68b2d469B63060a5904A5F74c8aD46d98#code
+   *  TokenPreSale : https://bscscan.com/address/0x3BE190258C362c979E7fF64679BD8bAF3c5d0969#code
 
 ###### ParaSwap Fee Module
 * Web : https://paraswap.io
 * App : https://app.paraswap.io
-* Smart Contracts
- * FeeClaimer : https://etherscan.io/address/0xef13101c5bbd737cfb2bf00bbd38c626ad6952f7#code 
+* Smart Contracts : [FeeClaimer](https://etherscan.io/address/0xef13101c5bbd737cfb2bf00bbd38c626ad6952f7#code) 
 
 ##### NFT Apps Portfolio
 
@@ -51,8 +57,8 @@ Aave, Compound, Curve DyDx, Fulcrum, Dforce, Harvest, Uniswap, Sushiswap, Benqui
 * App : https://whisbeverse.wtf
 * Opensea : https://opensea.io/collection/whisbe-vandalz
 * Smart Contracts
- * WhIsBeVandalzPeriphery : https://etherscan.io/address/0x31719ea121e5e77b12efaf134693bb2633d0dc3f#code
- * WhIsBeVandalz : https://etherscan.io/address/0x61CEcE14E222385D5aC83f3d0cbd518f5fEB3559#code
+   * WhIsBeVandalzPeriphery : https://etherscan.io/address/0x31719ea121e5e77b12efaf134693bb2633d0dc3f#code
+   * WhIsBeVandalz : https://etherscan.io/address/0x61CEcE14E222385D5aC83f3d0cbd518f5fEB3559#code
 
 ##### Web3 Developer Tools
 
@@ -63,28 +69,30 @@ Aave, Compound, Curve DyDx, Fulcrum, Dforce, Harvest, Uniswap, Sushiswap, Benqui
 * Web : https://getenzyme.dev
 * GH : https://github.com/dhruvinparikh/enzyme
 
-I am an instructor and curriculum designer at York University,Toronto for Smart Contracts and Decentralized Applications (https://github.com/york-blockchain).( 2020 - present)
-Courseware : 
-* https://csbc2000.surge.sh/
-* https://csbc2010.surge.sh/
-
-I have been Blockchain Instructor for Solidity Smart Contract and full stack decentralized application development course (https://github.com/GeorgeBrownCollege-Toronto) in the Blockchain Development Program at George Brown College,Toronto (2019 - 2022). 
-Courseware : 
-* https://bcdv1010.surge.sh/ 
-* https://bcdv1013.surge.sh/ 
-* https://bcdv1014.surge.sh/  
+I am an instructor and curriculum developer at York University,Toronto for Smart Contracts and Decentralized Applications (https://github.com/york-blockchain).( 2020 - present)
+<br/>Courseware : 
+  * [Fundamentals of Backend and Blockchain Development](https://york-blockchain.github.io/fundamentals-of-backend-and-blockchain-development/)
+  * [Essentials of Blockchain Development and Security](https://york-blockchain.github.io/essentials-of-blockchain-development-and-security/)
+  * [Smart Contracts And Decentralized Applications](https://york-blockchain.github.io/Smart-Contracts-And-Decentralized-Applications/)
 
 I have working with Metana's blockchain bootcamp
 Courseware :
-* https://metana-bootcamp.github.io/web3-solidity-course/
+  * [Web3 Solidity course](https://metana-bootcamp.github.io/web3-solidity-course/)
+  * [tech talks](https://metana-bootcamp.github.io/tech-talks/)
+
+I have been Blockchain Instructor for Solidity Smart Contract and full stack decentralized application development course (https://github.com/GeorgeBrownCollege-Toronto) in the Blockchain Development Program at George Brown College,Toronto (2019 - 2022). 
+Courseware : 
+  * [Smart Contract Essentials](https://bcdv1010.surge.sh/) 
+  * [Advanced Smart Contracts](https://bcdv1013.surge.sh/) 
+  * [DAPP - II](https://bcdv1014.surge.sh/)  
 
 I have appeared as guest instructor in Pesto's web3 fellowship
 Courseware : 
-* https://pesto-tech.github.io/web3-fellowship/01_consensus/notes/index.html#/
+  * [Overview Of Consensus Mechanism](https://pesto-tech.github.io/web3-fellowship/01_consensus/notes/index.html#/)
 
 I have also worked with Eat The Blocks(A popular Youtube Blockchain Edu Channel). Here are the YT videos where I have contributed too : 
-* https://youtu.be/PPGJzckn8GY
-* https://youtu.be/pc1yLO56pbg 
+  * [Build your own Crypto Trading bot](https://youtu.be/PPGJzckn8GY)
+  * [Full Course on Polygon Development | Build Blockchain Apps on Polygon](https://youtu.be/pc1yLO56pbg) 
 
 #### Catch me on
 
