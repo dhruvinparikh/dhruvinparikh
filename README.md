@@ -80,7 +80,7 @@ Deploying and wiring frax assets across several EVM and non-EVM chains.
 * Web : https://getenzyme.dev
 * GH : https://github.com/dhruvinparikh/enzyme
 
-I am an instructor and curriculum developer at York University,Toronto for Smart Contracts and Decentralized Applications (https://github.com/york-blockchain).( 2020 - present)
+I am an instructor and curriculum developer at York University,Toronto for Smart Contracts and Decentralized Applications (https://github.com/york-blockchain).( 2020 - 2024)
 <br/>Courseware : 
   * [Fundamentals of Backend and Blockchain Development](https://york-blockchain.github.io/fundamentals-of-backend-and-blockchain-development/)
   * [Essentials of Blockchain Development and Security](https://york-blockchain.github.io/essentials-of-blockchain-development-and-security/)
